@@ -1,7 +1,7 @@
 '''
 version 2 of the automated eeg preprocessing pipeline specific to the calm-brain dataset. this pipeline is designed for resting
 state data, with eyes open and eyes closed being the two prinicipal conditions, other annotations do exist in these files, and 
-are handled in the code but aren't retained within the analysis. this steps of this process were provided by dr gautam from the
+are handled in the code but aren't retained within the analysis. the additional steps of this process were provided by dr gautam from the
 NIMHANS team.
 
 this pipeline diverges from the previous version in the following ways:
