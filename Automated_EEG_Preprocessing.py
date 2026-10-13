@@ -75,7 +75,7 @@ artefact_codes = {
     "0002": "BAD_sweat",
 }
 
-# more recent versions of this pipeline ignores these codes. for resting state data, it is assumed that EO is at the
+# more recent versions of this pipeline ignore these codes. for resting state data, it is assumed that EO is at the
 # beginning of the recording, and EC is at the halfway point. other codes considered irrelevant
 brainvision_stim_codes = {
     "Stimulus/S  1": "Cond1",  
